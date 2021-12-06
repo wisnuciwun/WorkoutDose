@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "339933800489",
+    "project_id": "workoutdose-601c0",
+    "storage_bucket": "workoutdose-601c0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:339933800489:android:33cd9c979019fcae2c5438",
+        "android_client_info": {
+          "package_name": "com.example.daily_workout"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "339933800489-04rado39kg599vlh6o4glhd4etan1n8q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZ55anyI1MlLFXSktf4n4KYwTP9B0m8PY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "339933800489-04rado39kg599vlh6o4glhd4etan1n8q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
